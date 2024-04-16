@@ -1,0 +1,26 @@
+.section-testimonio {
+  display: flex;
+}
+
+.section-left {
+  display: flex;
+  align-items: center;
+  width: 40vw;
+  height: 88vh;
+}
+
+.section-right {
+  row-gap: 20px;
+}
+
+.rectangulo {
+  background-color: #5E5BFF;
+  width: 572px;
+  height: 400px;
+  border-radius: 0px 25px 25px 0px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 64px;
+}
+
