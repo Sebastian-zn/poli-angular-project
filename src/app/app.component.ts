@@ -17,12 +17,12 @@ export class AppComponent {
       likes: '25'
     },
     {
-      title: 'Desarrollo Web',
+      title: 'Diseño Web',
       paragraph: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur, nostrum consequatur praesentium esse asperiores id perspiciatis cum fuga repellat namLorem ipsum dolor, sit amet consectetur adipisicing elit. Quam commodi dolor porro, rem eos sit optio facere dicta obcaecati voluptas veniam esse, voluptatum provident nihil aspernatur deserunt possimus qui incidunt',
       likes: '50'
     },
     {
-      title: 'Desarrollo Web',
+      title: 'Bots',
       paragraph: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur, nostrum consequatur praesentium esse asperiores id perspiciatis cum fuga repellat namLorem ipsum dolor, sit amet consectetur adipisicing elit. Quam commodi dolor porro, rem eos sit optio facere dicta obcaecati voluptas veniam esse, voluptatum provident nihil aspernatur deserunt possimus qui incidunt',
       likes: '108'
     },

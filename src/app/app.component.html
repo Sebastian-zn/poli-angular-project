@@ -24,9 +24,75 @@
 
 <!-- MAIN -->
 <main class="container">
+  <!-- Services -->
   <section class="services">
     <div class="services__head">
       <h1>NUESTROS SERVICIOS</h1>
+    </div>
+    <div class="services__body">
+      <!-- Service 1 -->
+      <div class="service">
+        <div class="service__head">
+          <h3 class="service__title">{{ services[0].title }}</h3>
+        </div>
+        <div class="service__body">
+          <p class="service__copy">
+            {{ services[0].paragraph }}
+          </p>
+        </div>
+        <div class="service__footer">
+          <div class="likes">
+            <i class="far fa-thumbs-up"></i> {{ services[0].likes }}
+          </div>
+          <div class="check">
+            <i class="far fa-eye"></i>
+          </div>
+        </div>
+      </div>
+      <!-- Service 2 -->
+      <div class="service">
+        <div class="service__head">
+          <h3 class="service__title">{{ services[1].title }}</h3>
+        </div>
+        <div class="service__body">
+          <p class="service__copy">
+            {{ services[1].paragraph }}
+          </p>
+        </div>
+        <div class="service__footer">
+          <div class="likes">
+            <i class="far fa-thumbs-up"></i> {{ services[1].likes }}
+          </div>
+          <div class="check">
+            <i class="far fa-eye"></i>
+          </div>
+        </div>
+      </div>
+      <!-- Service 3 -->
+      <div class="service">
+        <div class="service__head">
+          <h3 class="service__title">{{ services[2].title }}</h3>
+        </div>
+        <div class="service__body">
+          <p class="service__copy">
+            {{ services[2].paragraph }}
+          </p>
+        </div>
+        <div class="service__footer">
+          <div class="likes">
+            <i class="far fa-thumbs-up"></i> {{ services[2].likes }}
+          </div>
+          <div class="check">
+            <i class="far fa-eye"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Featured Services -->
+  <section class="services f-services">
+    <div class="services__head">
+      <h1>SERVICIOS DESTACADOS</h1>
     </div>
     <div class="services__body">
       <!-- Service 1 -->
