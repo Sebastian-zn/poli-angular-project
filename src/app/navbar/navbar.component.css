@@ -6,7 +6,9 @@
     align-items: center;
     justify-content: space-between;
     height: 90px;
-    position: sticky;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
 }
 
 /* Navbar Logo */
