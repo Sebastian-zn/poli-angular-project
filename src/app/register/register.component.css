@@ -1,0 +1,93 @@
+.div {
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    display: flex;
+    max-width: 410px;
+    flex-direction: column;
+    font-size: 14px;
+    color: #000;
+    font-weight: 400;
+    line-height: 28px;
+    justify-content: center;
+  }
+  .div-2 {
+    border-radius: 10px;
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 37px 31px;
+  }
+  .div-3 {
+    align-self: center;
+    font: 32px/87.5% Inter, sans-serif;
+  }
+  .div-4 {
+    font-family: Inter, sans-serif;
+    line-height: 200%;
+    margin-top: 55px;
+  }
+  .div-5 {
+    font-family: Inter, sans-serif;
+    border-radius: 10px;
+    border-color: rgba(226, 225, 229, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    margin-top: 8px;
+    color: #d2d2d2;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  .div-6 {
+    font-family: Inter, sans-serif;
+    line-height: 200%;
+    margin-top: 43px;
+  }
+  .div-7 {
+    font-family: Inter, sans-serif;
+    border-radius: 10px;
+    border-color: rgba(226, 225, 229, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    margin-top: 8px;
+    color: #d2d2d2;
+    white-space: nowrap;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  .div-8 {
+    font-family: Inter, sans-serif;
+    line-height: 200%;
+    align-self: start;
+    margin-top: 43px;
+  }
+  .div-9 {
+    font-family: Inter, sans-serif;
+    border-radius: 10px;
+    border-color: rgba(226, 225, 229, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    align-self: start;
+    margin-top: 8px;
+    color: #d2d2d2;
+    white-space: nowrap;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  .div-10 {
+    font-family: Inter, sans-serif;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #5e5bff;
+    align-self: end;
+    margin-top: 33px;
+    color: #fff;
+    font-weight: 600;
+    white-space: nowrap;
+    text-align: center;
+    padding: 10px 15px;
+  }
