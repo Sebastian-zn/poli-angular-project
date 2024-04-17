@@ -9,6 +9,4 @@ import { CardTestimonioComponent } from '../card-testimonio/card-testimonio.comp
   templateUrl: './testimonio.component.html',
   styleUrl: './testimonio.component.css'
 })
-export class TestimonioComponent {
-
-}
+export class TestimonioComponent { }

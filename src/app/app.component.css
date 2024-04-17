@@ -74,15 +74,15 @@
 
 /* MAIN */
 .container {
-  margin: 0 auto;
+  margin: 0 auto 150px auto;
   width: 80%;
   height: auto;
 }
 
+/* Services */
 .services {
   width: 100%;
   height: auto;
-
 }
 
 .services__head {
@@ -104,6 +104,9 @@
   background-color: #9B99FF;
   border-radius: 10px;
   overflow: hidden;
+  box-shadow: 7px 10px 22px -3px rgba(155,155,155,0.75);
+-webkit-box-shadow: 7px 10px 22px -3px rgba(155,155,155,0.75);
+-moz-box-shadow: 7px 10px 22px -3px rgba(155,155,155,0.75);
 }
 
 .services__body .service .service__head {
