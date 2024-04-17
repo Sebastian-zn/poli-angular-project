@@ -1,0 +1,38 @@
+.card {
+  margin-top: 20px;
+  padding: 16px;
+  width: 800px;
+  min-height: 80px;
+  background-color: #a7a3a3f5;
+  border-radius: 16px;
+}
+
+.card-medio {
+  margin-left: 32px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.card p {
+  margin-top: 16px;
+  font-size: 16px;
+  color: #6B6B78;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  height: 40px;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.card-footer div {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
